@@ -71,18 +71,18 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/mnnbqlkg
 
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#1a1c20"
+  text: "#22261d"
   border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
+  link: "#688a4a"
+  highlight: "#538221"
   background: "#ffffff"
-  light_background: "#f3f5fb"
+  light_background: "#f6fbf3"
 
 # A few examples. 
 basic theme:
