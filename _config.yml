@@ -37,7 +37,7 @@ resume-url: /assets/resume/Kaitlyn K. Nguyen Resume Aug 2025.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: kaitlynknguyen/   # https://www.linkedin.com/in/{your url slug} 
+  linkedin: kaitlynknguyen   # https://www.linkedin.com/in/{your url slug} 
   # github: leea12    # https://github.com/{your url slug} 
   # stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   # medium:            # https://medium.com/@{your url slug} 
