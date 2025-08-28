@@ -1,16 +1,13 @@
 ---
 layout: post
 title: UCI Rocket Project Solids
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+description:  Our project is an interdisciplinary, student-led engineering effort focused on solid-propellant rocketry. With 29 members across launch vehicle, payload, experimental, avionics, and operations subteams, we took on the full scope of research, design, and manufacturing—including developing our own potassium nitrate sorbitol (KNSB) motor. Students also managed logistics and operations with guidance from a faculty advisor, gaining experience in the complete lifecycle of an aerospace project.
 skills: 
   - Structural analysis
   - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Composite Manufacturing
+  - Fundraising
+  - Logistics
 
 main-image: /project2.jpg
 ---
